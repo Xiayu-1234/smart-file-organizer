@@ -1,0 +1,19 @@
+{
+  "name": "smart-file-organizer",
+  "version": "1.0.0",
+  "description": "智能文件整理工具 - 自动分类、批量重命名、一键归档",
+  "main": "index.js",
+  "bin": {
+    "file-organizer": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["file-organizer", "automation", "cli", "productivity"],
+  "author": "夏禹",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

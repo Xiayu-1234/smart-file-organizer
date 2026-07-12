@@ -1,0 +1,11 @@
+{
+  "文档": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".md", ".csv", ".json"],
+  "图片": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp", ".ico", ".psd"],
+  "视频": [".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv", ".webm"],
+  "音频": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".wma", ".m4a"],
+  "压缩包": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz"],
+  "程序": [".exe", ".msi", ".bat", ".sh", ".ps1", ".apk", ".dmg"],
+  "代码": [".js", ".ts", ".py", ".java", ".c", ".cpp", ".go", ".rs", ".html", ".css", ".vue", ".jsx", ".tsx"],
+  "种子": [".torrent"],
+  "字体": [".ttf", ".otf", ".woff", ".woff2"]
+}
